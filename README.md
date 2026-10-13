@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sam 👋
 
-<!--
-**samnichollsme/samnichollsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Front-End Engineer based in England, building thoughtful, accessible interfaces with React and TypeScript.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Portfolio](https://samnicholls.me)**: my personal site, built with React, TypeScript and Tailwind, accessible to WCAG 2.2 AA and deployed on Cloudflare. ([source](https://github.com/samnichollsme/portfolio))
+- **Component library** *(in progress)*: a collection of accessible React components with full keyboard support and documented interaction patterns.
+
+### What I work with
+
+React · TypeScript · Tailwind CSS · Accessibility · Design Systems
+
+### Get in touch
+
+[Website](https://samnicholls.me) · [Email](mailto:contact@samnicholls.me) · [LinkedIn](https://uk.linkedin.com/in/samuel-nicholls-576253133)
