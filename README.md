@@ -4,7 +4,7 @@ Senior Front-End Engineer based in England, building thoughtful, accessible inte
 
 ### What I'm working on
 
-- **[Portfolio](https://samnicholls.me)**: my personal site, built with React, TypeScript and Tailwind, accessible to WCAG 2.2 AA and deployed on Cloudflare. ([source](https://github.com/samnichollsme/portfolio))
+- **[Portfolio](https://samnicholls.me)**: my personal site, built with React, TypeScript and Tailwind, accessible to WCAG 2.2 AA.
 - **Component library** *(in progress)*: a collection of accessible React components with full keyboard support and documented interaction patterns.
 
 ### What I work with
