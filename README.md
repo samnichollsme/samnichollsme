@@ -13,4 +13,4 @@ React · TypeScript · Tailwind CSS · Accessibility · Design Systems
 
 ### Get in touch
 
-[Website](https://samnicholls.me) · [Email](mailto:contact@samnicholls.me) · [LinkedIn](https://uk.linkedin.com/in/samuel-nicholls-576253133)
+[Website](https://samnicholls.me) · [Email](mailto:contact@samnicholls.me) · [LinkedIn](https://www.linkedin.com/in/sam-nicholls-576253133/)
