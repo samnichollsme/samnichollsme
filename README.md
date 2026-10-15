@@ -1,6 +1,6 @@
 # Hi, I'm Sam 👋
 
-Senior Front-End Engineer based in England, building thoughtful, accessible interfaces with React and TypeScript.
+Senior Front-End Engineer based in the United Kingdom, building thoughtful, accessible interfaces with React and TypeScript.
 
 ### What I'm working on
 
