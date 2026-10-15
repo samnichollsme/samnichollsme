@@ -4,12 +4,12 @@ Senior Front-End Engineer based in England, building thoughtful, accessible inte
 
 ### What I'm working on
 
-- **[Portfolio](https://samnicholls.me)**: my personal site, built with React, TypeScript and Tailwind, accessible to WCAG 2.2 AA.
-- **Component library** *(in progress)*: a collection of accessible React components with full keyboard support and documented interaction patterns.
+- **[Portfolio](https://samnicholls.me)**: my personal site, built with React, TypeScript and Tailwind CSS, accessible to WCAG 2.2 AA.
+- **[Components](https://components.samnicholls.me)**: a library of accessible React components (combobox, dialog, tabs, toast and more), built from scratch to WAI-ARIA patterns. Every story is tested in a real browser for keyboard behaviour and accessibility violations.
 
 ### What I work with
 
-React · TypeScript · Tailwind CSS · Accessibility · Design Systems
+React · TypeScript · Tailwind CSS · Storybook · Accessibility · Design Systems · Testing
 
 ### Get in touch
 
